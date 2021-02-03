@@ -1,7 +1,7 @@
 {
-  "name": "media-type-from-extension",
-  "version": "1.0.0",
-  "main": "index.js",
-  "author": "Dae Catt",
-  "license": "ISC"
+	"name": "media-type-from-extension",
+	"version": "1.0.1",
+	"main": "index.js",
+	"author": "Dae Catt",
+	"license": "ISC"
 }

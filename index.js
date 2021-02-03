@@ -4,7 +4,7 @@ const fs = require("fs");
 const path = require("path");
 
 /**
- * @param {string?} sourcePath Path to media type data. Defaults to /etc/mime.types
+ * @param {string=} sourcePath Path to media type data. Defaults to /etc/mime.types
  */
 const makeLookup = (sourcePath = "/etc/mime.types") => {
 	const extnameToMediaTypeMap = new Map();
